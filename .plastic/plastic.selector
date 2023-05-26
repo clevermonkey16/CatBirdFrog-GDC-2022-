@@ -1,0 +1,3 @@
+rep "GDC project 2022@applenarutomaki@cloud"
+  path "/"
+    smartbranch "/main"
